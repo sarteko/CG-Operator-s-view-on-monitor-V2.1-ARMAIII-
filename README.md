@@ -1,15 +1,16 @@
-# 🎥 Arma 3 Helmet Camera Monitor Script — FIX V2.1
+# 🎥 Arma 3 CG-Operator-s-view-on-monitor-V2.1
 
 ---
 
 ## 🇬🇧 English Version
 
 ### 🧩 Version
-**FIX V2.0**
+**FIX V2.1**
 
 - Used element: **Vanilla**
 - **Fix:** Camera position adjustment  
 - **Graphics requirement:** PiP (Picture-in-Picture) **at least on High**
+- Fix for multiplayer
 
 ---
 
