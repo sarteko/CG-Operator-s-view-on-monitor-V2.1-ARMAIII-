@@ -53,7 +53,7 @@ It can be placed directly in the **Arma 3 Editor**, and combined with the helmet
 ---
 
 ### 💡 Inspired by
-[Helmet Camera Script](https://steamcommunity.com/sharedfiles/filedetails/?id=3018683365)
+[Live Map (Whiteboard)](https://steamcommunity.com/sharedfiles/filedetails/?id=3018683365)
 
 ---
 
