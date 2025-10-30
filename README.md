@@ -41,6 +41,18 @@ Ideal for immersive command centers or tactical operations where live visual fee
 
 ---
 
+### 🎯 Trigger: BLUFORCE to CIVILIAN for Undercover
+
+If you want to easily switch your BLUFORCE unit to a **civilian identity** during undercover missions, you can use this trigger:
+
+**Trigger Name:** `BLUFORCE to CIVILIAN for Undercover`  
+**Steam Workshop Link:** [https://steamcommunity.com/sharedfiles/filedetails/?id=3595437256](https://steamcommunity.com/sharedfiles/filedetails/?id=3595437256)
+
+This trigger allows operators to change side and appearance dynamically during missions, making covert operations more immersive and functional.  
+It can be placed directly in the **Arma 3 Editor**, and combined with the helmet cam script for full tactical control.
+
+---
+
 ### 💡 Inspired by
 [Helmet Camera Script](https://steamcommunity.com/sharedfiles/filedetails/?id=3018683365)
 
