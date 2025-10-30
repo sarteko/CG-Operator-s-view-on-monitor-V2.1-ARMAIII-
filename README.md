@@ -1,4 +1,4 @@
-# 🎥 Arma 3 CG-Operator-s-view-on-monitor-V2.1
+# 🎥 Arma 3 CG-Operator's view on monitor
 ## 📸 Preview / Anteprima
 
 <img width="1870" height="935" alt="sc1" src="https://github.com/user-attachments/assets/13eda284-b0d7-4682-8175-ece237783497" />
