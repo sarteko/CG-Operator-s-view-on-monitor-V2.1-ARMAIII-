@@ -17,6 +17,7 @@
 **FIX V2.1**
 
 - Used element: **Vanilla**
+- In case of undercover missions (CIVIL), the operator's name will be in <span style="color:purple; font-weight:bold;">PURPLE</span>, not <span style="color:blue; font-weight:bold;">BLUE</span>.
 - **Fix:** Camera position adjustment  
 - **Graphics requirement:** PiP (Picture-in-Picture) **at least on High**
 - Fix for multiplayer
