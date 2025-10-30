@@ -2,7 +2,6 @@
 
 ---
 
-## 🇬🇧 English Version
 
 ### 🧩 Version
 **FIX V2.1**
