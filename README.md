@@ -9,11 +9,35 @@
 
 <img width="637" height="358" alt="sc4" src="https://github.com/user-attachments/assets/4530ad3d-c757-4bbc-807f-2223122ffd58" />
 
+![screen](https://github.com/user-attachments/assets/c9884e7c-a15c-4aff-8383-b31c3ce6b78c)
+
 
 ---
 
 
 ### 🧩 Version
+FIX V2.5 (01/11/2025)
+Added functionality for playing on multiple monitors.
+Just set the variable name correctly on the monitors; by default,
+operatorcam (master) changes the cams on the (slave) monitors operatorcam1 and operatorcam2, 3, 4, etc., based on how many monitors you want.
+The monitors (slaves) can still change cam but if the monitor (master) is changed by someone it will also change on the slaves.
+
+If the script is set up correctly, you can create different groups of monitors, such as splitting by team, for example:
+bravocam/alphacam (master)
+bravocam/alphacam1 (slave)
+bravocam/alphacam2 (slave) 3, 4, 5, etc.
+
+// Format: ["monitor_master", ["monitor_slave_1", "monitor_slave_2", ...]]
+["operatorcam", ["operatorcam1", "operatorcam2"]]
+// Add other configurations if necessary:
+// ,["operatorcam_alpha", ["operatorcam_alpha1", "operatorcam_alpha2"]]
+// ,["operatorcam_bravo", ["operatorcam_bravo1"]]
+];
+
+BUG:
+
+There's a bug. If I turn off a slave monitor, the other monitors turn off. Can I fix it? I don't know...
+
 **FIX V2.1**
 
 - Used element: **Vanilla**
