@@ -27,6 +27,7 @@ bravocam/alphacam (master)
 bravocam/alphacam1 (slave)
 bravocam/alphacam2 (slave) 3, 4, 5, etc.
 
+
 // Format: ["monitor_master", ["monitor_slave_1", "monitor_slave_2", ...]]
 ["operatorcam", ["operatorcam1", "operatorcam2"]]
 // Add other configurations if necessary:
