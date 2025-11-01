@@ -39,7 +39,7 @@ BUG:
 
 There's a bug. If I turn off a slave monitor, the other monitors turn off. Can I fix it? I don't know...
 
-**FIX V2.1**
+**FIX V2.1** (28/11/2025)
 
 - Used element: **Vanilla**
 - In case of undercover missions (CIVIL), the operator's name will be in 🟣 **PURPLE**, not 🔵 **BLUE**.
